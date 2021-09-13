@@ -27,7 +27,9 @@ jobs:
       # Set up Java JDK 11, to do so this action https://github.com/actions/setup-java is called
       - uses: actions/setup-java@v1
         with:
-          java-version: 11
+          distribution: "adopt"
+          java-version: "11.0.8"
+          cache: 'gradle'
           
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
