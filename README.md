@@ -15,6 +15,8 @@ This Project was an assignment for University. The application allows one to cre
 The data for the heritage sites is saved in a .csv file and was provided by [opendatasoft.com](https://opendatasoft.com).
 The user interface supports multi language (english and german) and has a custom dark theme.
 This project also allows one to track the heritage sites one has visited around the world by simply checking them of the list.
+<img width="1712" alt="Screenshot 2021-09-13 at 21 43 38" src="https://user-images.githubusercontent.com/47121010/133146589-3a627063-fe1a-4790-aad8-914cc4a22b01.png">
+
 
 ### Built With
 * [Java11](https://openjdk.java.net/projects/jdk/15/)
