@@ -1,4 +1,5 @@
 # HeritageSitesFx
+![Gradle build workflow](https://github.com/LuciferUchiha/HeritageSitesFx/actions/workflows/main.yml/badge.svg)
 
 ## Table of Contents
 
